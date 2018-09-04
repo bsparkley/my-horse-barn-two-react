@@ -1,0 +1,35 @@
+.container {
+    margin-bottom: 25px;
+}
+
+.col-md-12 {
+    text-align: left;
+    background-color: rgba(204, 204, 204, .22);
+    padding: 15px;
+}
+
+.col-md-12  img {
+    width: 100%;
+}
+
+.horse-details {
+    text-align: left;
+}
+
+.horse-details h2 {
+    font-weight: normal;
+}
+
+.horse-details ul {
+    padding-left: 0;
+}
+
+.horse-details li {
+    list-style-type: none;
+    font-size: 1.6rem;
+    padding: 3px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
